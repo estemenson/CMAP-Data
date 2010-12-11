@@ -5,7 +5,7 @@
 	<StartDate> </StartDate>
 	<Parent/>
 	<ProjectBackLog/>
-	<Children List=""/>
+	<Children List=""><Child Id="a320f204f228634c2c14c58de0c63ec3"/></Children>
 	<EstimateFinishDate> </EstimateFinishDate>
 	<EstimateHours> </EstimateHours>
 	<ActualHours> </ActualHours>
