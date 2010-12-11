@@ -3,7 +3,7 @@
 	<Name></Name>
 	<Description> </Description>
 	<StartDate> </StartDate>
-	<Children List=""/>
+	<Children List=""><Child Id="4884ff68940a216fdc03a4ad10cc7d2f"/></Children>
 	<Parent Id="7fa5e9007f044f8edfc56e4e68f31c79"/>
 	<EstimateFinishDate> </EstimateFinishDate>
 	<EstimateHours> </EstimateHours>
