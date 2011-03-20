@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><Project>
+	<Id>b1f2d41db6446b671b01fee05cd88db1</Id>
+	<Name></Name>
+	<Description> </Description>
+	<StartDate> </StartDate>
+	<Parent/>
+	<ProjectBackLog/>
+	<Children List=""/>
+	<EstimateFinishDate> </EstimateFinishDate>
+	<EstimateHours> </EstimateHours>
+	<ActualHours> </ActualHours>
+	<ActualFinish> </ActualFinish>
+	<Owner> </Owner>
+	<ScrumMaster> </ScrumMaster>
+	<Status> </Status>
+    <Scribbles><Scribble Color="[1.0,1.0,1.0,1.0]" Id=""/><Scribble Color="[1.0, 1.0, 1.0, 1.0]" Id="78cad25a1c0dad8bd8568e2bad26e90b"><![CDATA[[(193.0, 84.000000000000057), (195.0, 86.000000000000057), (195.0, 104.0), (195.0, 138.0), (195.0, 182.0), (195.0, 218.0), (195.0, 241.0), (195.0, 247.0), (204.0, 261.0), (226.0, 272.0), (269.0, 280.0), (270.00000000000011, 280.0), (348.00000000000011, 266.00000000000011), (364.0, 242.0), (364.0, 229.0), (354.0, 214.0), (314.0, 186.0), (313.0, 186.0), (258.0, 182.0), (249.0, 182.0), (244.0, 182.0), (228.00000000000011, 175.99999999999994), (221.0, 175.99999999999994), (218.0, 174.99999999999994), (209.0, 174.99999999999994), (205.0, 174.99999999999994), (201.0, 174.99999999999994), (201.0, 174.99999999999994)]]]></Scribble></Scribbles>
+    <TextFields>
+        <TextArea Color="[1.0,1.0,1.0,1.0]" Font-Size="" Id="" pos="" size=""/>
+    </TextFields>
+</Project>
